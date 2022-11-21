@@ -2,7 +2,7 @@ php_flag magic_qoutes_gpc Off
 
 AddDefaultCharset utf-8
 
-<IfModule rewrite_module> 
+<IfModule rewrite_module>  
 
     DirectoryIndex index.php
 
@@ -10,8 +10,8 @@ AddDefaultCharset utf-8
 
     RewriteCond %{REQUEST_FILENAME} !-f
 
-    RewriteCond %{REQUETS_FILENAME} !-d
+     RewriteCond %{REQUETS_FILENAME} !favicon.ico
 
     RewriteRule ^(.*) index.php
 
-</IfModule>
+ </IfModule> 

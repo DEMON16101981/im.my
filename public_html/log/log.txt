@@ -1,0 +1,17 @@
+
+Fault: 21-11-2022 14:58:37 - Method core\admin\controller\IndexController::request() does not exist
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line38
+
+Fault: 21-11-2022 14:58:38 - Class "core\user\controller\Favicon.icoController" does not exist
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line38
+
+Fault: 21-11-2022 15:01:29 - Class "core\user\controller\Favicon.icoController" does not exist
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line38
+
+Fault: 21-11-2022 15:03:11 - Class "core\user\controller\Favicon.icoController" does not exist
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
+In line38
+
