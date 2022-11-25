@@ -3,11 +3,24 @@
 namespace core\admin\controller;
 
 use core\base\controller\BaseController;
+use core\admin\model\Model;
 
 class IndexController extends BaseController
 {
    protected function inputData()
    {
-      exit('I am admin panel');
+      $db = Model::instance();
+
+      $table = 'teachers';
+
+      $color = ['red', 'blue', 'black'];
+
+      $res = $db->create($table, [
+         'fields' => ['id', 'name'],
+         'where' => ['name' => "O'Raly"],
+         'limit' => '1',
+
+      ])[0];
+      exit('id=' . $res['id'] . ' Name = ' . $res['name']);
    }
 }

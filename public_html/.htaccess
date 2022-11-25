@@ -10,7 +10,7 @@ AddDefaultCharset utf-8
 
     RewriteCond %{REQUEST_FILENAME} !-f
 
-     RewriteCond %{REQUETS_FILENAME} !favicon.ico
+     RewriteCond %{REQUETS_FILENAME} !^favicon.ico
 
     RewriteRule ^(.*) index.php
 
