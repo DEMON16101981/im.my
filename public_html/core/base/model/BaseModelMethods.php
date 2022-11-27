@@ -4,6 +4,8 @@ namespace core\base\model;
 
 abstract class BaseModelMethods
 {
+   protected $sqlFunc = ['NOW()'];
+
    protected function createFields($set, $table = false)
    {
       $set['fields'] = (is_array($set['fields']) && !empty($set['fields']))
@@ -204,14 +206,9 @@ abstract class BaseModelMethods
 
    protected function createInsert($fields, $files, $except)
    {
-      if (!$fields) {
-         $fields = $_POST;
-      }
-
       $insert_arr = [];
 
       if ($fields) {
-         $sql_func = ['NOW()'];
 
          foreach ($fields as $row => $value) {
             if ($except && in_array($row, $except)) {
@@ -220,7 +217,7 @@ abstract class BaseModelMethods
 
             $insert_arr['fields'] .= $row . ',';
 
-            if (in_array($value, $sql_func)) {
+            if (in_array($value, $this->sqlFunc)) {
                $insert_arr['values'] .= $value . ',';
             } else {
                $insert_arr['values'] .= "'" . addslashes($value) . "',";
@@ -230,8 +227,52 @@ abstract class BaseModelMethods
 
       if ($files) {
          foreach ($files as $row => $file) {
-            
+            $insert_arr['fields'] .= $row . ',';
+            if (is_array($file)) {
+               $insert_arr['values'] .= "'" . addslashes(json_encode($file)) . "',";
+            } else {
+               $insert_arr['values'] .= "'" . addslashes($file) . "',";
+            }
          }
       }
+
+      foreach ($insert_arr as $key => $arr) {
+         $insert_arr[$key] = rtrim($arr, ',');
+      }
+
+      return $insert_arr;
+   }
+
+   protected function createUpdate($fields, $files, $except)
+   {
+      $update = '';
+
+      if ($fields) {
+         foreach ($fields as $row => $value) {
+            if ($except && in_array($row, $except)) {
+               continue;
+            }
+            $update .= $row . '=';
+
+            if (in_array($value, $this->sqlFunc)) {
+               $update .= $value . ',';
+            } else {
+               $update .= "'" . addslashes($value) . "',";
+            }
+         }
+      }
+
+      if ($files) {
+         foreach ($files as $row => $file) {
+            $update .= $row . '=';
+            if (is_array($file)) {
+               $update .= "'" . addslashes(json_encode($file)) . "',";
+            } else {
+               $update .= "'" . addslashes($file) . "',";
+            }
+         }
+      }
+
+      return rtrim($update, ',');
    }
 }

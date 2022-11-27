@@ -13,14 +13,15 @@ class IndexController extends BaseController
 
       $table = 'teachers';
 
-      $color = ['red', 'blue', 'black'];
+      $files['gallery_img'] = [""];
+      $files['img'] = '';
 
-      $res = $db->create($table, [
-         'fields' => ['id', 'name'],
-         'where' => ['name' => "O'Raly"],
-         'limit' => '1',
+      $_POST['id'] = 8;
+      $_POST['name'] = '';
+      $_POST['content'] = "<p>New' book1</p>";
 
-      ])[0];
+      $res = $db->edit($table);
+
       exit('id=' . $res['id'] . ' Name = ' . $res['name']);
    }
 }

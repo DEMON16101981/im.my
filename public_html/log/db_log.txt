@@ -32,3 +32,123 @@ Fault: 25-11-2022 13:40:43 - Table 'im.join_table1' doesn't exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
 In line32
 
+Fault: 27-11-2022 13:32:54 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jp' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:38:09 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:39:34 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:40:52 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:41:31 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:41:56 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:42:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:47:52 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:49:23 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:50:56 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:52:22 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:52:25 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:53:18 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 13:53:47 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:20:49 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:21:21 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:23:29 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:25:17 - Field 'gallery_img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:26:53 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:27:37 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:29:50 - Column count doesn't match value count at row 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:31:12 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '()) VALUES ('Katya1','Hello1')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:31:45 - Column count doesn't match value count at row 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:32:42 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isset(()) VALUES ('Katya1','Hello1')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:34:20 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Katya1','Hello1')' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:36:22 - Column count doesn't match value count at row 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:36:58 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:37:44 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 14:38:25 - Field 'img' doesn't have a default value
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
+Fault: 27-11-2022 16:03:15 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isset()' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
