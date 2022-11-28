@@ -1,540 +1,132 @@
-Fault: 25-11-2022 11:10:42 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:13:43 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:20:35 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:43:00 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:21:59 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:44:08 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:22:36 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:44:22 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:26:07 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:44:33 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:28:48 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:50:31 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:29:33 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:50:44 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:34:55 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:54:03 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:36:00 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 19:55:54 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:39:14 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:09:59 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:39:53 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:11:04 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:40:14 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:11:50 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:42:16 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:12:30 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:43:26 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:13:19 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:50:34 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:15:32 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:51:56 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:17:57 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:52:29 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:20:16 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:53:29 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:22:37 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 12:54:16 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:29:54 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:00:18 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:31:04 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:02:13 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:31:51 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:04:45 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:32:43 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:04:56 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:33:09 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:08:35 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:44:28 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:09:36 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:45:25 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:09:39 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:45:59 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:10:55 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:47:07 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:14:40 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:52:16 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:15:24 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:54:54 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:18:31 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:56:52 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:18:47 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 20:57:22 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:19:34 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 21:00:21 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 
-Fault: 25-11-2022 13:20:59 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:21:21 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:26:40 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:27:29 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:30:07 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:32:58 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:33:19 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:38:00 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:39:46 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:40:44 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:42:27 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:47:44 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:48:21 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:48:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:50:57 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:53:57 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:54:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:55:33 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:55:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 13:59:46 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 14:00:06 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 14:00:17 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 14:15:23 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 14:37:49 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 25-11-2022 22:02:59 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 26-11-2022 17:42:04 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 12:55:41 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 12:59:57 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:02:10 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:04:15 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:05:42 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:06:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:08:27 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:32:55 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:38:10 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:39:34 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:40:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:41:31 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:41:56 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:42:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:47:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:49:24 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:50:56 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:52:23 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:52:26 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:53:20 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:53:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:55:11 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:55:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:59:44 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 13:59:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:01:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:02:47 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:02:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:06:27 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:06:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:09:52 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:10:06 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:17:58 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:19:07 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:20:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:21:21 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:22:04 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:23:29 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:25:17 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:26:54 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:27:37 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:29:51 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:31:13 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:31:45 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:32:42 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:34:20 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:36:23 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:36:59 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:37:45 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:38:26 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:48:32 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:50:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:54:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 14:59:58 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:02:01 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:03:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:50:14 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:56:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:57:46 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:57:55 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 15:59:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:02:38 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:03:15 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:05:46 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:06:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:07:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:08:58 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:10:13 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:10:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:11:54 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:16:37 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:18:55 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:19:19 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:21:00 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:23:03 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:27:14 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
-
-Fault: 27-11-2022 16:27:47 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 28-11-2022 21:01:41 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
 In line38
 

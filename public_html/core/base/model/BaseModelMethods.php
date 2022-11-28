@@ -8,7 +8,7 @@ abstract class BaseModelMethods
 
    protected function createFields($set, $table = false)
    {
-      $set['fields'] = (is_array($set['fields']) && !empty($set['fields']))
+      $set['fields'] = (is_array(isset($set['fields'])) && !empty($set['fields']))
          ? $set['fields'] : ['*'];
 
       $table = $table ? $table . '.' : '';
@@ -60,7 +60,7 @@ abstract class BaseModelMethods
 
       $where = '';
 
-      if (is_array($set['where']) && !empty($set['where'])) {
+      if (is_array(isset($set['where'])) && !empty($set['where'])) {
          $set['operand'] = (is_array(isset($set['operand'])) && !empty($set['operand'])) ? $set['operand'] : ['='];
          $set['condition'] = (is_array(isset($set['condition'])) && !empty($set['condition'])) ? $set['condition'] : ['AND'];
 
@@ -134,6 +134,7 @@ abstract class BaseModelMethods
       $fields = '';
       $join = '';
       $where = '';
+      $tables = '';
 
       if (isset($set['join'])) {
          $join_table = $table;
@@ -185,6 +186,7 @@ abstract class BaseModelMethods
                $join .= '.' . $join_fields[0] . '=' . $key . '.' . $join_fields[1];
 
                $join_table = $key;
+               $tables .= ', ' . trim($join_table);
 
                if ($new_where) {
                   if ($item['where']) {
@@ -201,7 +203,7 @@ abstract class BaseModelMethods
          }
       }
 
-      return compact('fields', 'join', 'where');
+      return compact('fields', 'join', 'where', 'tables');
    }
 
    protected function createInsert($fields, $files, $except)
@@ -256,6 +258,8 @@ abstract class BaseModelMethods
 
             if (in_array($value, $this->sqlFunc)) {
                $update .= $value . ',';
+            } elseif ($value === NULL) {
+               $update .= "NULL" . ',';
             } else {
                $update .= "'" . addslashes($value) . "',";
             }
