@@ -35,6 +35,8 @@ class Settings
         ]
     ];
 
+    private $defaultTable = 'teachers';
+
     private $teplateArr = [
         'text' => ['name', 'phone', 'adress'],
         'textarea' => ['content', 'keywords']

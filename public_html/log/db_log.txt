@@ -180,3 +180,7 @@ Fault: 28-11-2022 20:20:16 - Column 'img' cannot be null
 fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
 In line41
 
+Fault: 30-11-2022 0:10:01 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+fileD:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line41
+
