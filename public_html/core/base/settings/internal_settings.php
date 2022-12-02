@@ -3,7 +3,7 @@
 defined('VG_ACCESS') or die('Access demied');
 
 const TEMPLATE = 'templates/default/';
-const ADMIN_TAMPLATE = 'core/admin/view/';
+const ADMIN_TEMPLATE = 'core/admin/view/';
 
 const COOKIE_VERSION = '1.0.0';
 const CRYPT_KEY = '';

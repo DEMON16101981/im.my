@@ -7,12 +7,14 @@ use core\base\controller\BaseController;
 use core\base\exceptions\RouteException;
 use core\base\settings\Settings;
 
+
 abstract class BaseAdmin extends BaseController
 {
    protected $model;
 
    protected $table;
    protected $columns;
+   protected $data;
 
    protected $menu;
    protected $title;
@@ -46,7 +48,7 @@ abstract class BaseAdmin extends BaseController
       header("Cache-Control: post-check=0,pre-check=0");
    }
 
-   protected function exectBase()
+   protected function execBase()
    {
       self::inputData();
    }
@@ -66,5 +68,45 @@ abstract class BaseAdmin extends BaseController
       if (!$this->columns) {
          new RouteException('Не найдены поля в таблице - ' . $this->table, 2);
       }
+   }
+
+   protected function expansion($args = [], $settings = false)
+   {
+      $filename = explode('_', $this->table);
+      $className = '';
+
+      foreach ($filename as $item) {
+         $className .= ucfirst($item);
+      }
+
+      if (!$settings) {
+         $path = Settings::get('expansion');
+      } elseif (is_object($settings)) {
+         $path = $settings::get('expansion');
+      } else {
+         $path = $settings;
+      }
+
+      $class = $path . $className . 'Expansion';
+
+      if (is_readable($_SERVER['DOCUMENT_ROOT'] . PATH . $class . ' .php')) {
+         $class = str_replace('/', '\\', $class);
+
+         $exp = $class::instance();
+
+         foreach ($this as $name => $value) {
+            $exp->$name = &$this->$name;
+         }
+         return $exp->expansion($args);
+      } else {
+         $file = $_SERVER['DOCUMENT_ROOT'] . PATH . $path . $this->table . ' .php';
+
+         extract($args);
+
+         if (is_readable($file)) {
+            return include $file;
+         }  
+      }
+      return false;
    }
 }

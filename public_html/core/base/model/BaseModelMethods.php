@@ -8,7 +8,7 @@ abstract class BaseModelMethods
 
    protected function createFields($set, $table = false)
    {
-      $set['fields'] = (is_array(isset($set['fields'])) && !empty($set['fields']))
+      $set['fields'] = (is_array($set['fields']) && !empty($set['fields']))
          ? $set['fields'] : ['*'];
 
       $table = $table ? $table . '.' : '';

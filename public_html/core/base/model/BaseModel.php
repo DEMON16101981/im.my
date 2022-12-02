@@ -2,17 +2,14 @@
 
 namespace core\base\model;
 
-use core\base\controller\Singleton;
 use core\base\exceptions\DbException;
 
 
-class BaseModel extends BaseModelMethods
+abstract class BaseModel extends BaseModelMethods
 {
-   use Singleton;
-
    protected $db;
 
-   private function __construct()
+   protected function connect()
    {
       try {
          $this->db = @new \mysqli(HOST, USER, PASS, DB_NAME);
@@ -101,9 +98,9 @@ class BaseModel extends BaseModelMethods
 
 
 
-   final public function create($table, $set = [])
+   final public function create( $table, $set = [], )
    {
-      $fields = $this->createFields($set, $table);
+      $fields = $this->createFields( $set, $table);
 
       $order = $this->createOrder($set, $table);
 
@@ -144,7 +141,7 @@ class BaseModel extends BaseModelMethods
    final public function add($table, $set = [])
    {
       $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : $_POST;
-      $set['files'] = (is_array(isset($set['files'])) && !empty($set['files'])) ? $set['files'] : false;
+      $set['files'] = (is_array($set['files']) && !empty($set['files'])) ? $set['files'] : false;
 
       if (!$set['fields'] && !$set['files']) {
          return false;

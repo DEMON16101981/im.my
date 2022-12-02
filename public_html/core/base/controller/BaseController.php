@@ -76,7 +76,7 @@ abstract class BaseController
             $routes = Settings::get('routes');
 
             if ($space === $routes['user']['path']) $template = TEMPLATE;
-            else  $template = ADMIN_TAMPLATE;
+            else  $template = ADMIN_TEMPLATE;
 
             $path = $template . explode('controller', strtolower($class->getShortName()))[0];
         }
@@ -110,11 +110,11 @@ abstract class BaseController
             }
         } else {
             if (ADMIN_CSS_JS['styles']) {
-                foreach (USER_CSS_JS['styles'] as $item) $this->styles[] = PATH . ADMIN_TAMPLATE . trim($item, '/',);
+                foreach (USER_CSS_JS['styles'] as $item) $this->styles[] = PATH . ADMIN_TEMPLATE . trim($item, '/',);
             }
 
             if (ADMIN_CSS_JS['scripts']) {
-                foreach (USER_CSS_JS['scripts'] as $item) $this->scripts[] = PATH . ADMIN_TAMPLATE . trim($item, '/',);
+                foreach (USER_CSS_JS['scripts'] as $item) $this->scripts[] = PATH . ADMIN_TEMPLATE . trim($item, '/',);
             }
         }
     }
