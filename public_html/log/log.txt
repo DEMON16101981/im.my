@@ -1,468 +1,688 @@
-Fault: 01-12-2022 15:20:14 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:33:32 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 15:21:58 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:34:12 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 15:22:43 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:34:15 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 18:04:25 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:06:49 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:09:45 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:19:30 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:20:01 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:20:48 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:49:11 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:50:52 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:35:32 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:51:00 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:35:33 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 18:51:26 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:53:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 18:53:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:03:19 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:04:26 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:05:47 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:05:56 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:06:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:03 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:06:14 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:36:03 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 19:06:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:08:47 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:14:28 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:14:49 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:14:57 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:15:06 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:52:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:53:51 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:14 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 19:54:32 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:36:15 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 19:56:04 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:26 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:08:01 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:26 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:11:37 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:26 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:24:32 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:27 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:37:28 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:27 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:38:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:27 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:49:36 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:27 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:55:02 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:36:27 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 20:59:35 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:36:27 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:00:03 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:40:56 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:01:42 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:02:11 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:02:27 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:05:52 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:08:06 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:08:14 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:09:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:09:38 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:05 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:09:40 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:41:06 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:09:49 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:10:38 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:12:54 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:13:51 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:14:28 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:16:08 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:18:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:19:40 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:41:24 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:21:07 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:41:25 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:21:35 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:41:40 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:36:30 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:37:26 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:38:59 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:39:25 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:42:00 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:43:13 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:45:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:47:23 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:43:22 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:49:39 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:43:23 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 21:54:11 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:55:06 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:57:15 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:57:39 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:58:29 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 21:59:28 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:51:32 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 01-12-2022 22:00:41 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:51:33 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 01-12-2022 22:01:20 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 17:07:10 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 17:08:05 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 17:59:16 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:00:52 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:01:17 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:52:47 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:02:01 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:52:48 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 18:28:23 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:33:30 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:41:38 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:41:47 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:49:00 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:51:03 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:53:08 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:51:18 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:53:08 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 18:52:42 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:54:36 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 18:53:44 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:57:37 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 18:53:55 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 18:56:11 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:07:46 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:08:29 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:22:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:23:24 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 18:59:18 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:23:27 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 18:59:19 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 19:24:53 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:03 - Не верное имя файла для подключения - AdminController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:26:54 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 19:02:04 - Class "Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 19:27:35 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:29:38 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:30:02 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:30:10 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:32:50 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:32:58 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:02:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:42:51 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 19:02:31 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 19:44:44 - Class "core\user\controller\Favicon.icoController" does not exist
-fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:45:19 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:03:58 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:03:59 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
+
+Fault: 03-12-2022 19:35:37 - Отсутствуют маршруты в базовых настройках
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\RouteController.php
+In line30
+
+Fault: 03-12-2022 19:35:38 - Отсутствуют маршруты в базовых настройках
+fileD:\OSPanel\domains\im.my\public_html\core\base\controller\RouteController.php
+In line30
+
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:45:27 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:35:55 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:35:56 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 19:40:30 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 19:46:54 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 19:40:31 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 19:48:51 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 21:58:57 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 19:49:32 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 21:59:16 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
-Fault: 02-12-2022 20:05:20 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 23:28:39 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 20:06:35 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:51 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:28:52 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
+
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 20:06:41 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:30:48 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:30:49 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/ImagesController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
+
+Fault: 03-12-2022 23:31:15 - Не верное имя файла для подключения - core/user/controller/TemplateController
+fileD:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line34
 
-Fault: 02-12-2022 20:14:38 - Class "core\user\controller\Favicon.icoController" does not exist
+Fault: 03-12-2022 23:31:15 - Class "core\user\controller\Favicon.icoController" does not exist
 fileD:\OSPanel\domains\im.my\public_html\core\base\controller\BaseController.php
-In line38
+In line43
 
